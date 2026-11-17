@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">后台录像</string>
+    <string name="hint_line">超广角 · 1080p30 · H.265</string>
+    <string name="status_idle">空闲</string>
+    <string name="btn_record">开始录制</string>
+    <string name="btn_recording">停止保存</string>
+</resources>

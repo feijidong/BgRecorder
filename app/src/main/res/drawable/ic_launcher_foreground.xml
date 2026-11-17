@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 镜头外圈 -->
+    <path
+        android:fillColor="#2A2F36"
+        android:pathData="M54,30 a24,24 0 1,0 0.1,0 z" />
+    <path
+        android:fillColor="#FF3B30"
+        android:pathData="M54,34 a20,20 0 1,0 0.1,0 z" />
+    <path
+        android:fillColor="#0E1013"
+        android:pathData="M54,40 a14,14 0 1,0 0.1,0 z" />
+    <path
+        android:fillColor="#F2F4F7"
+        android:pathData="M54,46 a8,8 0 1,0 0.1,0 z" />
+    <!-- 录制小红点 -->
+    <path
+        android:fillColor="#FF3B30"
+        android:pathData="M54,66 a5,5 0 1,0 0.1,0 z" />
+</vector>
